@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/advaymengle
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://madvay.github.io
+  * I am advaymengle (https://keybase.io/advaymengle) on keybase.
+  * I have a public key with fingerprint 9B4B F8BF E832 2D0E 6163  AA9C AAB0 435B A933 FA9D
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0113800144b8136996e45e409f23e4d4bc17a04c4aa07befd349688e793969f8ac640a",
+      "fingerprint": "9b4bf8bfe8322d0e6163aa9caab0435ba933fa9d",
+      "host": "keybase.io",
+      "key_id": "aab0435ba933fa9d",
+      "kid": "0113800144b8136996e45e409f23e4d4bc17a04c4aa07befd349688e793969f8ac640a",
+      "uid": "82e3a82a070d25a39ab82933d9daf919",
+      "username": "advaymengle"
+    },
+    "service": {
+      "hostname": "madvay.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1508755343,
+  "expire_in": 157680000,
+  "prev": "14c004a16396f35135c00d41a2a055eadea743c5a0b2cf70138122385dce0ab3",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUn9QFGUYvkNC5EBQktAAbaUSvcH9ebd7/MqQSQTD0dIo6fh299tjgbuDuwVE
+ghCFSSjAK6cE5RoqI0azUmKu0CmIowGJiNAwI4SCAS1/kUkFtUvWX/3ZX9+83/u8
+z/s8z7y1fgtU3mptz0U8Yeah39U9k6wq9acuRxHCWvlCxFCEZMH5B2bz0C4Zs0Qe
+MSAohhE0imIkydIYoWMYHSQpSKKMgBOQ5EmWw/QAJTkSAFTPQoEnSEZH01DPEIyO
+EWjA6UgUIFpEEC0maMuxiRZJpmVYkhVoVoA0geM8CnWYjgCA4QBgUZKgWMAQhAAY
+Xh7MsNqVCVkcC+wwUrTKf3JhnJf3H/j/WXfePB2NQwLQuIxFeZwCBANYGpd38gwP
+BAZjFKAd2izADBVVfD4oNEOLKRsixVpEbuSLHFSyVczcBZnnUZEmUcrIY/+2lWOz
+SlbOmi13MyQpx25QpqXCHAVeAFnjXSIjK1p4OU55Ih/a7KLVghgwGclJosKMUSit
+pyiCJLQI3J0j2qBRVBCUXicngqLKHpgvU6ZjJIeiJJCzZ3QCQWEEJdc8iQHZKEVB
+wEOgJwmOAiiLc4IelSPFcJygKZ6DKGAJRPGWa7HK5DKrBEwyqV00WYCUZ5Od+xzw
+IDxVam9VaNADnv0J97m0K6/MNi5N+fcG7/FQDlDlsyjgn5/YogBV41Tg1aeatj/Z
+VNm2r2DgaMb2PYM+29qvX5tpWjPn9aDx4Uo6clVj5OMHdt0xd0+Nlb5fHpr8x3hY
+1s4wvHBRx6HzMZjn8zXj4XTBtbyvRyrM+5wudWmUZsKlDotqr+NcxZ2miNLa7oWX
+x9bHrJjWTPl7BU2nLE79see0YeS9o1udER2XNZqZiKqoS0fSjNypUP++3waH2kL2
+fltl7hRqjvmFnIt7lAvfVhduLetZ5TV6pGRZ83cOfONLWOAZa/SdyOxn/nSvrXjn
+5c+HYrkaW1LXhuiRzMz944PXRy4tdi/IrU04U/HN9/3uY+cnb3tuOmuYTj4ITKf2
+vn3z3cM73N65Wo+2oc74Gwe/DNvz2PIo8dWYE/dWvxhckhbkWIJ1T3Ycvh1cnDhK
+oytfd9ZduOWenhwN3ZqU2vzsREjmh7v8XnGpozLLV+vfWveLh7PlidcufDBIOmaT
+fKvOJc9JYcOtjtFhMU4lFg0cZ2+sJhsuPm2fuNow6nSTiY2aXle574Bf/Xr/lNje
+nd5VAcsGT/uO7Ve3Bi9JjOlZenxH2XM/b7mVt7A0/auz1SdrT6hf0PRd6W3p7k+1
+RjuGV9S3C3FNFfX3t77ZtXzdp5seQTPda+xzm7f8Gv/Rhvi+jflMy2zXTToWTXOy
+bSVph1KwhjeqPxlba2r+YbeuEv84pnhz4MQXJz/zbSoXusvS/wI=
+=0dax
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/advaymengle
+
+==================================================================
